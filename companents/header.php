@@ -17,7 +17,9 @@
         <ul class="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0">
           <li><a class='nav-link px-2 text-white' href="/">Главная страница</a></li>
           <li><a class='nav-link px-2 text-white' href="about.php">Про нас</a></li>
-          <li><a class='nav-link px-2 text-white' href="contact.php">Контакты</a></li>
+          <!-- <li><a class='nav-link px-2 text-white' href="contact.php">Контакты</a></li> -->
+           <li><a class='nav-link px-2 text-white' href="date.php">Дата</a></li>
+           <li><a class='nav-link px-2 text-white' href="phpfunction.php">Функции</a></li>
         </ul>
 
         <div class="text-end">

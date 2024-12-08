@@ -1,6 +1,6 @@
 <?php 
 	$title = 'Про нас';
-	require 'companents/header.php';
+	require_once 'companents/header.php';
 ?>
 <div class='container mt-2'>
 <h1>Про нас</h1>
@@ -13,5 +13,5 @@
 </form>
 </div>
 <?php 
-	require 'companents/footer.php';
+	require_once 'companents/footer.php';
 ?>
