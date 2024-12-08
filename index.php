@@ -7,6 +7,7 @@
 ?>
 <h1>Главная страница</h1>
 <?php 
+	print_r($_GET);
 	require 'companents/footer.php';
 	// require_once 'companents/footer.php';
 	// include 'companents/footer.php';
